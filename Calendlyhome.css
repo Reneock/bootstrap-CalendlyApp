@@ -1,0 +1,84 @@
+.nav-calendly{
+	color: black;
+	font-size: small;
+	margin-left: 150px;
+}
+
+.sidenote h1{
+	font-weight: 900;
+	letter-spacing: -0.01em;
+	max-width: 450px;
+}
+
+.sidenote span{
+	color: blue;
+}
+
+.signup{
+	display: flex;
+}
+
+.signup input{
+	width: 250px;
+	font-size: small;
+	border-radius: 20px;
+}
+
+.signup button{
+	flex-direction: row-reverse;
+	font-size: small;
+	background-color: black;
+	border-radius: 20px;
+
+}
+
+.signunder{
+	font-size: x-small;
+	margin-top: 0px;
+}
+
+.simplified{
+	font-family:  Gilroy, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	line-height: 2;
+	margin-top: 120px;
+	font-size: x-large;
+	font-weight: bold;
+}
+
+.simplified span{
+	color: blue;
+}
+
+.calimage{
+	justify-content: space-between;
+	margin-top: 30px;
+	opacity: 0.4;
+	filter: alpha(opacity=40); /* msie */
+	margin: 30px 110px 0px 110px;
+}
+
+.footer{
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.footer span{
+	border: 1px solid blue;
+	background-color: blue;
+	color: white;
+	font-size: x-small;
+	margin-right: 10px;
+	border-width: 5px;
+	border-radius: 25px;
+}
+
+.footer h4{
+	font-weight: bolder;
+	
+
+}
+
+.footer p{
+	word-break: normal;
+	
+}
