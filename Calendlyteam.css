@@ -5,25 +5,25 @@
 
 }
 
-.row1{
+.teamrow1{
 	margin-top: 100px;
 }
 
-.row1 h3{
+.teamrow1 h3{
 	font-weight: 900;
 	color: rgb(11, 53, 88);
 }
 
-.row1 span{
+.teamrow1 span{
 	color: royalblue;
 }
 
-.row1 p{
+.teamrow1 p{
 	font-weight: 300;
 	color: #476788;
 }
 
-.row1 button{
+.teamrow1 button{
 	border-radius: 20px;
 	margin-right: 5px;
 	margin-left: 20px;
@@ -37,7 +37,7 @@
 	color: rgb(11, 53, 88);
 }
 
-.row2{
+.teamrow2{
 	margin-top: 100px;
 	color: rgb(11, 53, 88);
 	text-align: center;
@@ -46,7 +46,7 @@
 	letter-spacing: 0.1em;
 }
 
-.row3{
+.teamrow3{
 	margin-top: 100px;
 	margin-bottom: 100px;
 }
@@ -57,20 +57,20 @@
 	font-weight: 700;
 }
 
-.row3 h5{
+.teamrow3 h5{
 	font-weight: bolder;
 	color: rgb(11, 53, 88);
 	word-spacing: 0.1em;
 	padding-top: 2px;
 }
 
-.row3 p{
+.teamrow3 p{
 	padding-top: 10px;
 	color: rgb(11, 53, 88);
 	font-weight: 300;
 }
 
-.row4{
+.teamrow4{
 	text-align: center;
 	padding-left: 350px;
 }
@@ -84,7 +84,7 @@
 
 }
 
-.row4 h4{
+.teamrow4 h4{
 	padding-bottom: 30px;
 	font-weight: bolder;
 	color: rgb(11, 53, 88);
@@ -93,36 +93,36 @@
 
 }
 
-.row5 h5{
+.teamrow5 h5{
 	color: rgb(11, 53, 88);
 }
 
-.row5 p{
+.teamrow5 p{
 	color: rgb(11, 53, 88);
 	font-weight: 200;
 	font-size: small;
 }
 
-.row6{
+.teamrow6{
 	padding-top: 50px;
 }
 
-.row6 h4{
+.teamrow6 h4{
 	font-weight: bolder;
 }
 
-.row6 span{
+.teamrow6 span{
 	color: blue;
 }
 
-.row6 button{
+.teamrow6 button{
 	color: black;
 	background-color: white;
 	width: 180px;
 	padding-left: 5px;
 }
 
-.row6 p{
+.teamrow6 p{
 	font-size: small;
 	color: darkgrey;
 	padding-bottom: 5px;
